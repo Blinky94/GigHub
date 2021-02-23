@@ -108,3 +108,4 @@ D:\PluralSight\MVC\GigHub\GigHub\obj\Debug\GigHub.dll
 D:\PluralSight\MVC\GigHub\GigHub\obj\Debug\GigHub.pdb
 D:\PluralSight\MVC\GigHub\GigHub\obj\Debug\GigHub.Migrations.MigrationDataz.resources
 D:\PluralSight\MVC\GigHub\GigHub\obj\Debug\GigHub.csproj.GenerateResource.cache
+D:\PluralSight\MVC\GigHub\GigHub\obj\Debug\GigHub.Migrations.OverrideConventionsForGisAndGenres.resources
