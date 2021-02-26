@@ -101,7 +101,6 @@ D:\PluralSight\MVC\GigHub\GigHub\bin\Microsoft.Owin.Security.Twitter.xml
 D:\PluralSight\MVC\GigHub\GigHub\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 D:\PluralSight\MVC\GigHub\GigHub\bin\Microsoft.Owin.Security.OAuth.xml
 D:\PluralSight\MVC\GigHub\GigHub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\PluralSight\MVC\GigHub\GigHub\obj\Debug\GigHub.csprojAssemblyReference.cache
 D:\PluralSight\MVC\GigHub\GigHub\obj\Debug\GigHub.csproj.CoreCompileInputs.cache
 D:\PluralSight\MVC\GigHub\GigHub\obj\Debug\GigHub.csproj.CopyComplete
 D:\PluralSight\MVC\GigHub\GigHub\obj\Debug\GigHub.dll

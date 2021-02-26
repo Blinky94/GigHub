@@ -9,7 +9,7 @@ namespace GigHub.ViewModels
 
         public override bool IsValid(object value)
         {
-            var isValid = DateTime.TryParseExact(Convert.ToString(value), "HH:mm", CultureInfo.CurrentCulture, DateTimeStyles.None, out DateTime dateTime);
+            var isValid = DateTime.TryParseExact(Convert.ToString(value), "HH:mm", CultureInfo.CurrentCulture, DateTimeStyles.None, out _);
 
             return (isValid);
         }
