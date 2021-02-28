@@ -111,3 +111,4 @@ D:\PluralSight\MVC\GigHub\GigHub\obj\Debug\GigHub.Migrations.OverrideConventions
 D:\PluralSight\MVC\GigHub\GigHub\obj\Debug\GigHub.Migrations.PopulateGenredTable.resources
 D:\PluralSight\MVC\GigHub\GigHub\obj\Debug\GigHub.Migrations.AddForeignKeyPropertiesToGig.resources
 D:\PluralSight\MVC\GigHub\GigHub\obj\Debug\GigHub.csprojAssemblyReference.cache
+D:\PluralSight\MVC\GigHub\GigHub\obj\Debug\GigHub.Migrations.AddNameToApplicationUser.resources
