@@ -69,7 +69,10 @@ D:\PluralSight\MVC\GigHub\GigHub\bin\Microsoft.Owin.Security.Twitter.dll
 D:\PluralSight\MVC\GigHub\GigHub\bin\Microsoft.Web.Infrastructure.dll
 D:\PluralSight\MVC\GigHub\GigHub\bin\Newtonsoft.Json.dll
 D:\PluralSight\MVC\GigHub\GigHub\bin\Owin.dll
+D:\PluralSight\MVC\GigHub\GigHub\bin\System.Net.Http.Formatting.dll
 D:\PluralSight\MVC\GigHub\GigHub\bin\System.Web.Helpers.dll
+D:\PluralSight\MVC\GigHub\GigHub\bin\System.Web.Http.dll
+D:\PluralSight\MVC\GigHub\GigHub\bin\System.Web.Http.WebHost.dll
 D:\PluralSight\MVC\GigHub\GigHub\bin\System.Web.Mvc.dll
 D:\PluralSight\MVC\GigHub\GigHub\bin\System.Web.Optimization.dll
 D:\PluralSight\MVC\GigHub\GigHub\bin\System.Web.Razor.dll
@@ -77,6 +80,9 @@ D:\PluralSight\MVC\GigHub\GigHub\bin\System.Web.WebPages.Deployment.dll
 D:\PluralSight\MVC\GigHub\GigHub\bin\System.Web.WebPages.dll
 D:\PluralSight\MVC\GigHub\GigHub\bin\System.Web.WebPages.Razor.dll
 D:\PluralSight\MVC\GigHub\GigHub\bin\WebGrease.dll
+D:\PluralSight\MVC\GigHub\GigHub\bin\System.Net.Http.Formatting.xml
+D:\PluralSight\MVC\GigHub\GigHub\bin\System.Web.Http.xml
+D:\PluralSight\MVC\GigHub\GigHub\bin\System.Web.Http.WebHost.xml
 D:\PluralSight\MVC\GigHub\GigHub\bin\System.Web.Helpers.xml
 D:\PluralSight\MVC\GigHub\GigHub\bin\System.Web.Mvc.xml
 D:\PluralSight\MVC\GigHub\GigHub\bin\System.Web.Optimization.xml
@@ -106,6 +112,7 @@ D:\PluralSight\MVC\GigHub\GigHub\obj\Debug\GigHub.Migrations.OverrideConventions
 D:\PluralSight\MVC\GigHub\GigHub\obj\Debug\GigHub.Migrations.PopulateGenredTable.resources
 D:\PluralSight\MVC\GigHub\GigHub\obj\Debug\GigHub.Migrations.AddForeignKeyPropertiesToGig.resources
 D:\PluralSight\MVC\GigHub\GigHub\obj\Debug\GigHub.Migrations.AddNameToApplicationUser.resources
+D:\PluralSight\MVC\GigHub\GigHub\obj\Debug\GigHub.Migrations.AddAttendance.resources
 D:\PluralSight\MVC\GigHub\GigHub\obj\Debug\GigHub.csproj.GenerateResource.cache
 D:\PluralSight\MVC\GigHub\GigHub\obj\Debug\GigHub.csproj.CoreCompileInputs.cache
 D:\PluralSight\MVC\GigHub\GigHub\obj\Debug\GigHub.csproj.CopyComplete
