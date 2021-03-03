@@ -178,6 +178,9 @@
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Dtos\FollowingDto.cs" />
+    <Compile Include="Controllers\FollowingsController.cs" />
+    <Compile Include="Dtos\AttendanceDto.cs" />
     <Compile Include="Controllers\AttendancesController.cs" />
     <Compile Include="Controllers\GigsController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
@@ -209,8 +212,13 @@
     <Compile Include="Migrations\202103020824055_AddAttendance.Designer.cs">
       <DependentUpon>202103020824055_AddAttendance.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202103030830189_FollowingArtistTable.cs" />
+    <Compile Include="Migrations\202103030830189_FollowingArtistTable.Designer.cs">
+      <DependentUpon>202103030830189_FollowingArtistTable.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Attendance.cs" />
+    <Compile Include="Models\Following.cs" />
     <Compile Include="ViewModels\AddPhoneNumberViewModel.cs" />
     <Compile Include="ViewModels\ChangePasswordViewModel.cs" />
     <Compile Include="ViewModels\FactorViewModel.cs" />
@@ -319,6 +327,9 @@
     <EmbeddedResource Include="Migrations\202103020824055_AddAttendance.resx">
       <DependentUpon>202103020824055_AddAttendance.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202103030830189_FollowingArtistTable.resx">
+      <DependentUpon>202103030830189_FollowingArtistTable.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
@@ -333,7 +344,9 @@
     <Content Include="Scripts\jquery-3.4.1.slim.min.map" />
     <Content Include="Scripts\jquery-3.4.1.min.map" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="Views\Followings\" />
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
